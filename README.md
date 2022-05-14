@@ -39,6 +39,6 @@
 
 ---
 
-**<h2 align="center" style="color:#fcba03;">Arseniy FoxyKiss Kravtsov.</h2>**
-**<h2 align="center"  style="color:#d52b1e;">Aspring Web-Developer</h2>**
-**<h2 align="center"  style="color: #0039a6;">[Yandex Practicum](https://praktikum.yandex.ru/)</h2>**
+**<h2 align="center" style="color:#fcba03">Arseniy FoxyKiss Kravtsov.</h2>**
+**<h2 align="center">Aspring Web-Developer</h2>**
+**<h2 align="center">[Yandex Practicum](https://praktikum.yandex.ru/)</h2>**
