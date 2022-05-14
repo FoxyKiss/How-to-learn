@@ -4,7 +4,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
 ![BEM](https://img.shields.io/badge/-BEM-000?&logo=BEM)
 
- **<h1 align="center"><a href="foxykiss.github.io/how-to-learn/">How to learn</a></h1>**
+ **<h1 align="center"><a href="https://foxykiss.github.io/How-to-learn/">How to learn</a></h1>**
 
 **<h2>✒️ Описание:</h2>**
 
